@@ -61,7 +61,7 @@
           </ul>
         </li>
         <li>
-          <strong>Weakness in 2021 and an Uneven Recovery in 2022</strong>
+          <strong>Dip in 2021 and an Uneven Recovery in 2022</strong>
           <ul>
             <li>Revenue declined <strong>4.3% year on year to $399.25K in 2021</strong>.</li>
             <li>Q1, Q2 and Q3 2021 were respectively <strong>4.2%, 6.2% and 5.1% below average</strong>, before Q4 recovered to <strong>1.6% above average</strong>.</li>
