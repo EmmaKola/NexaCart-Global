@@ -50,51 +50,47 @@
 
 <table align="center">
   <tr>
-    <td width="900">
+    <td width="450" valign="top">
       <ol>
         <li>
-          <strong>Stable Foundation and Early Momentum in 2020</strong>
+          <strong>Revenue Growth and Peak Performance</strong>
           <ul>
-            <li>NexaCart generated <strong>$417.18K</strong> in annual revenue.</li>
-            <li><strong>Q1 was 1.0% below average</strong>, <strong>Q2 was 1.7% above</strong> and <strong>Q3 was 1.5% below</strong> the quarterly benchmark.</li>
-            <li><strong>Q4 finished 4.3% above average</strong>, establishing the first evidence of positive year-end momentum.</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Dip in 2021 and an Uneven Recovery in 2022</strong>
-          <ul>
-            <li>Revenue declined <strong>4.3% year on year to $399.25K in 2021</strong>.</li>
-            <li>Q1, Q2 and Q3 2021 were respectively <strong>4.2%, 6.2% and 5.1% below average</strong>, before Q4 recovered to <strong>1.6% above average</strong>.</li>
-            <li>Annual revenue increased <strong>2.7% to $409.93K in 2022</strong>, but quarterly performance remained volatile.</li>
-            <li><strong>Q1 2022 fell to $91.96K, 11.1% below average and the weakest quarter in the period</strong>.</li>
-            <li>The business rebounded to <strong>3.6% above average in Q2</strong>, slipped <strong>3.1% below in Q3</strong> and accelerated to <strong>7.0% above average in Q4</strong>.</li>
+            <li>After revenue declined <strong>4.3% from $417.18K in 2020 to $399.25K in 2021</strong>, NexaCart returned to growth in 2022, when revenue increased <strong>2.7% to $409.93K</strong>.</li>
+            <li>The strongest full-year result was recorded in <strong>2025</strong>: revenue reached <strong>$425.36K</strong>, representing <strong>7.5% year-on-year growth</strong> from 2024.</li>
+            <li>Momentum strengthened further in <strong>Q1 2026</strong>, when revenue reached a record <strong>$116.15K</strong>—<strong>12.3% above</strong> the $103.41K quarterly benchmark and the highest quarter in the dataset.</li>
+            <li>Because the 2026 data covers only Q1, this peak should be treated as a strong opening signal rather than evidence of full-year growth.</li>
           </ul>
         </li>
         <li>
           <strong>Growth Returned in 2023 Before a Broad-Based 2024 Downturn</strong>
           <ul>
-            <li>Revenue rose <strong>2.8% to $421.59K in 2023</strong>, supported by Q1 and Q2 results that were <strong>2.1% and 7.0% above average</strong>.</li>
-            <li>Revenue fell <strong>3.7% below average in Q3 2023</strong>, then recovered to <strong>2.3% above average in Q4</strong>.</li>
-            <li>Momentum reversed in 2024 as annual revenue declined <strong>6.2% to $395.66K</strong>.</li>
-            <li>Every 2024 quarter finished below the benchmark: <strong>Q1 by 0.8%, Q2 by 8.6%, Q3 by 2.4% and Q4 by 5.6%</strong>.</li>
+            <li>Revenue increased <strong>2.8% to $421.59K in 2023</strong>, supported by Q1 and Q2 results that finished <strong>2.1% and 7.0% above</strong> the quarterly benchmark.</li>
+            <li>The recovery was uneven: <strong>Q3 2023 fell 3.7% below</strong> the benchmark before Q4 recovered to <strong>2.3% above</strong> it.</li>
+            <li>The improvement reversed in <strong>2024</strong>, when annual revenue declined <strong>6.2% to $395.66K</strong> and every quarter underperformed the benchmark: <strong>Q1 by 0.8%, Q2 by 8.6%, Q3 by 2.4% and Q4 by 5.6%</strong>.</li>
+            <li>The fact that weakness affected all four quarters indicates a broad-based performance problem in 2024, rather than a single-quarter anomaly.</li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+    <td width="450" valign="top">
+      <ol start="3">
+        <li>
+          <strong>Quarterly Insights &amp; Seasonal Trends</strong>
+          <ul>
+            <li>Q1 was frequently a softer quarter: it finished below the benchmark in <strong>2020 (-1.0%), 2021 (-4.2%), 2022 (-11.1%), 2024 (-0.8%) and 2025 (-4.0%)</strong>. The major exceptions were <strong>Q1 2023 (+2.1%)</strong> and the record <strong>Q1 2026 (+12.3%)</strong>.</li>
+            <li>Q4 showed a recurring tendency to strengthen, finishing above average in <strong>2020 (+4.3%), 2022 (+7.0%) and 2023 (+2.3%)</strong>; however, <strong>Q4 2024 (-5.6%)</strong> confirms that seasonality alone does not guarantee performance.</li>
+            <li>The clearest sustained upswing began in <strong>Q2 2025</strong>: revenue remained above average in <strong>Q2 (+4.8%), Q3 (+6.7%) and Q4 (+3.9%)</strong>, before accelerating in <strong>Q1 2026 (+12.3%)</strong>.</li>
+            <li>This four-quarter progression shows that the recent recovery was broader than a one-off seasonal spike.</li>
           </ul>
         </li>
         <li>
-          <strong>Sustained Recovery in 2025 and Record Momentum in Q1 2026</strong>
+          <strong>Key Takeaways &amp; Recommendations</strong>
           <ul>
-            <li>NexaCart generated <strong>$425.36K in 2025</strong>, an increase of <strong>7.5% from 2024</strong> and the highest full-year revenue in the reporting period.</li>
-            <li>Although Q1 remained <strong>4.0% below average</strong>, performance improved to <strong>4.8% above average in Q2</strong>, <strong>6.7% above in Q3</strong> and <strong>3.9% above in Q4</strong>.</li>
-            <li>Three consecutive above-average quarters confirm that the recovery was sustained rather than driven by a single exceptional period.</li>
-            <li><strong>Q1 2026 reached $116.15K, 12.3% above the quarterly benchmark and the highest quarter in the dataset</strong>.</li>
-            <li>Because the available 2026 data covers only Q1, the result should be treated as early momentum and should not be compared with previous full-year totals.</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Key Takeaways and Recommendation</strong>
-          <ul>
-            <li>NexaCart moved from weakness in 2021 and early 2022, through a second downturn in 2024, into a sustained recovery beginning in Q2 2025.</li>
-            <li>Three consecutive above-average quarters in 2025, followed by record revenue in Q1 2026, indicate strengthening commercial momentum.</li>
-            <li>The next stage of the analysis should identify the products, countries, customer tiers and acquisition channels responsible for this acceleration and determine whether the growth can be sustained throughout the remaining quarters of 2026.</li>
+            <li><strong>Protect the 2025–Q1 2026 recovery:</strong> isolate the countries, product categories, customer tiers and acquisition channels responsible for the four consecutive above-average quarters, then prioritise inventory and marketing investment toward the combinations producing repeatable growth.</li>
+            <li><strong>Diagnose the 2024 decline before scaling:</strong> compare order volume, units sold, average order value, returns and customer acquisition performance against 2023 to determine why every 2024 quarter missed the benchmark.</li>
+            <li><strong>Build a Q1 demand plan:</strong> use targeted reactivation campaigns, product bundles and channel-specific promotions ahead of historically softer first quarters, while using the exceptional Q1 2026 result to identify tactics worth repeating.</li>
+            <li><strong>Plan around the quarterly benchmark:</strong> adopt <strong>$103.41K</strong> as a minimum quarterly performance reference and trigger an early commercial review whenever revenue falls materially below it.</li>
+            <li><strong>Avoid over-extrapolating Q1 2026:</strong> maintain rolling forecasts for Q2–Q4 2026 and test whether the record <strong>$116.15K</strong> quarter is supported by sustainable order growth rather than short-term promotions or a small number of high-value sales.</li>
           </ul>
         </li>
       </ol>
