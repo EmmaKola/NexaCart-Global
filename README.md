@@ -86,11 +86,10 @@
         <li>
           <strong>Key Takeaways &amp; Recommendations</strong>
           <ul>
-            <li><strong>Protect the 2025–Q1 2026 recovery:</strong> isolate the countries, product categories, customer tiers and acquisition channels responsible for the four consecutive above-average quarters, then prioritise inventory and marketing investment toward the combinations producing repeatable growth.</li>
-            <li><strong>Diagnose the 2024 decline before scaling:</strong> compare order volume, units sold, average order value, returns and customer acquisition performance against 2023 to determine why every 2024 quarter missed the benchmark.</li>
-            <li><strong>Build a Q1 demand plan:</strong> use targeted reactivation campaigns, product bundles and channel-specific promotions ahead of historically softer first quarters, while using the exceptional Q1 2026 result to identify tactics worth repeating.</li>
-            <li><strong>Plan around the quarterly benchmark:</strong> adopt <strong>$103.41K</strong> as a minimum quarterly performance reference and trigger an early commercial review whenever revenue falls materially below it.</li>
-            <li><strong>Avoid over-extrapolating Q1 2026:</strong> maintain rolling forecasts for Q2–Q4 2026 and test whether the record <strong>$116.15K</strong> quarter is supported by sustainable order growth rather than short-term promotions or a small number of high-value sales.</li>
+            <li><strong>Protect the recovery:</strong> identify the countries, products, customer tiers and channels driving the above-average <strong>Q2 2025–Q1 2026</strong> run, then focus inventory and marketing investment there.</li>
+            <li><strong>Explain the 2024 decline:</strong> compare order volume, units sold, average order value, returns and acquisition performance with 2023 before scaling further.</li>
+            <li><strong>Strengthen Q1 demand:</strong> schedule reactivation campaigns, bundles and targeted offers ahead of historically softer first quarters.</li>
+            <li><strong>Forecast 2026 cautiously:</strong> update Q2–Q4 rolling forecasts and confirm whether the record <strong>$116.15K</strong> in Q1 reflects sustainable order growth.</li>
           </ul>
         </li>
       </ol>
