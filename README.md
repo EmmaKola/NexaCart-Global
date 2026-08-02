@@ -57,7 +57,7 @@
           <ul>
             <li>After revenue declined <strong>4.3% from $417.18K in 2020 to $399.25K in 2021</strong>, NexaCart returned to growth in 2022, when revenue increased <strong>2.7% to $409.93K</strong>.</li>
             <li>The strongest full-year result was recorded in <strong>2025</strong>: revenue reached <strong>$425.36K</strong>, representing <strong>7.5% year-on-year growth</strong> from 2024.</li>
-            <li>Revenue improves further in <strong>Q1 2026</strong>, when revenue peaked at a record of <strong>$116.15K</strong>—<strong>12.3% above</strong> the $103.41K quarterly benchmark and the highest quarter in the dataset.</li>
+            <li>Sales improves further in <strong>Q1 2026</strong>, when revenue peaked at a record of <strong>$116.15K</strong>—<strong>12.3% above</strong> the $103.41K quarterly benchmark and the highest quarter in the dataset.</li>
             <li>Because the 2026 data covers only Q1, this peak should be treated as a strong opening signal rather than evidence of full-year growth.</li>
           </ul>
         </li>
