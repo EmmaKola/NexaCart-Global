@@ -13,7 +13,7 @@
       <p>
         To support its next phase of growth, NexaCart Global commissioned a comprehensive customer and sales performance analysis covering its years of operation from <strong>2020 to Q1 2026</strong>. Reporting to the <strong>Chief Commercial Officer</strong>, the analysis is designed to provide evidence-based insights that support better commercial decisions and improve operational performance. The key insights and recommendations focus on the following areas:
       </p>
-      <h3 align="center">Northstar Metrics</h3>
+      <h3 align="left">Northstar Metrics</h3>
       <ul>
         <li><strong>Sales performance</strong> - Evaluate revenue trends, order volume, units sold and average order value across time and countries.</li>
         <li><strong>Product performance</strong> - Identify high-performing and underperforming products, understand their commercial impact and compare return rates across the years of operation.</li>
