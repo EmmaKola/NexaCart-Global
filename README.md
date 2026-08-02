@@ -66,8 +66,8 @@
           <ul>
             <li>Revenue increased <strong>2.8% to $421.59K in 2023</strong>, supported by Q1 and Q2 results that finished <strong>2.1% and 7.0% above</strong> the quarterly benchmark.</li>
             <li>The recovery was uneven: <strong>Q3 2023 fell 3.7% below</strong> the benchmark before Q4 recovered to <strong>2.3% above</strong> it.</li>
-            <li>The improvement reversed in <strong>2024</strong>, when annual revenue declined <strong>6.2% to $395.66K</strong> and every quarter underperformed the benchmark: <strong>Q1 by 0.8%, Q2 by 8.6%, Q3 by 2.4% and Q4 by 5.6%</strong>.</li>
-            <li>The fact that weakness affected all four quarters indicates a broad-based performance problem in 2024, rather than a single-quarter anomaly.</li>
+            <li>2024 experienced massive downturn below average sales with its annual revenue declined by<strong>6.2% to $395.66K</strong> and every quarter underperformed the benchmark: <strong>Q1 by 0.8%, Q2 by 8.6%, Q3 by 2.4% and Q4 by 5.6%</strong>.</li>
+            <li>The below average performance in the four quarters in 2024 indicates a broad-based performance problem, rather than a single-quarter anomaly.</li>
           </ul>
         </li>
       </ol>
