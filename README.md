@@ -88,7 +88,7 @@
           <ul>
             <li><strong>Protect the recovery:</strong> identify the countries, products, customer tiers and channels driving the above-average <strong>Q2 2025–Q1 2026</strong> run, then focus inventory and marketing investment there.</li>
             <li><strong>Explain the 2024 decline:</strong> Investigate the cause of below average sales performance (i.e. Return rate, internal factors,  AOV, churn rate, competition etc) </li>
-            <li><strong>Strengthen Q1 demand:</strong> NexaCart should schedule reactivation campaigns, bundles and targeted offers ahead of historically softer first quarters, and leverage on high performing months to refine marketing and sales strategies.</li>
+            <li><strong>Reproduce Performing Quarters Strategy:</strong> NexaCart should leverage on high performing months to refine marketing and sales strategies.</li>
             <li><strong>Forecast 2026 cautiously:</strong> update Q2–Q4 rolling forecasts and confirm whether the record <strong>$116.15K</strong> in Q1 reflects sustainable order growth.</li>
           </ul>
         </li>
