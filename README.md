@@ -77,7 +77,7 @@
         <li>
           <strong>Quarterly Insights &amp; Seasonal Trends</strong>
           <ul>
-            <li>Q1 has a consistent below average performance: it finished below the benchmark in <strong>2020 (-1.0%), 2021 (-4.2%), 2022 (-11.1%) a sharp decline - lowest performing month , 2024 (-0.8%) and 2025 (-4.0%)</strong>. The major exceptions were <strong>Q1 2023 (+2.1%)</strong> and the record <strong>Q1 2026 (+12.3%)</strong>.</li>
+            <li>Q1 has a consistent below average performance: it finished below the benchmark in <strong>2020 (-1.0%), 2021 (-4.2%), 2022 (-11.1%) - lowest performing month, 2024 (-0.8%) and 2025 (-4.0%)</strong>. The major exceptions were <strong>Q1 2023 (+2.1%)</strong> and the record <strong>Q1 2026 (+12.3%)</strong>.</li>
             <li>Q4 every year has a strong sales performance above average with <strong>2020 (+4.3%), 2022 (+7.0%) and 2023 (+2.3%)</strong> above average; however, <strong>Q4 2024 has a dip of (-5.6%) below average</strong> which might be due to seasonality.</li>
             <li>Sales performance experienced sustained growth from <strong>Q2 2025</strong>: revenue remained above average in <strong>Q2 (+4.8%), Q3 (+6.7%) and Q4 (+3.9%)</strong>, and experiencing peak performance in <strong>Q1 2026 (+12.3%)</strong>.</li>
           </ul>
