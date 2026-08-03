@@ -77,7 +77,7 @@
         <li>
           <strong>Quarterly Insights &amp; Seasonal Trends</strong>
           <ul>
-            <li>Q1 was frequently a softer quarter: it finished below the benchmark in <strong>2020 (-1.0%), 2021 (-4.2%), 2022 (-11.1%), 2024 (-0.8%) and 2025 (-4.0%)</strong>. The major exceptions were <strong>Q1 2023 (+2.1%)</strong> and the record <strong>Q1 2026 (+12.3%)</strong>.</li>
+            <li>Q1 has a consistent below average perforrmance: it finished below the benchmark in <strong>2020 (-1.0%), 2021 (-4.2%), 2022 (-11.1%), 2024 (-0.8%) and 2025 (-4.0%)</strong>. The major exceptions were <strong>Q1 2023 (+2.1%)</strong> and the record <strong>Q1 2026 (+12.3%)</strong>.</li>
             <li>Q4 showed a recurring tendency to strengthen, finishing above average in <strong>2020 (+4.3%), 2022 (+7.0%) and 2023 (+2.3%)</strong>; however, <strong>Q4 2024 (-5.6%)</strong> confirms that seasonality alone does not guarantee performance.</li>
             <li>The clearest sustained upswing began in <strong>Q2 2025</strong>: revenue remained above average in <strong>Q2 (+4.8%), Q3 (+6.7%) and Q4 (+3.9%)</strong>, before accelerating in <strong>Q1 2026 (+12.3%)</strong>.</li>
             <li>This four-quarter progression shows that the recent recovery was broader than a one-off seasonal spike.</li>
@@ -88,7 +88,7 @@
           <ul>
             <li><strong>Protect the recovery:</strong> identify the countries, products, customer tiers and channels driving the above-average <strong>Q2 2025–Q1 2026</strong> run, then focus inventory and marketing investment there.</li>
             <li><strong>Explain the 2024 decline:</strong> Investigate the cause of below average sales performance (i.e. Return rate, internal factors,  AOV, churn rate, competition etc) </li>
-            <li><strong>Reproduce Performing Quarters Strategy:</strong> NexaCart should leverage on high performing months to refine marketing and sales strategies.</li>
+            <li><strong>Reproduce Performing Quarters Strategy:</strong> NexaCart should leverage on high performing quarters to refine marketing and sales strategies.</li>
             <li><strong>Forecast 2026 cautiously:</strong> update Q2–Q4 rolling forecasts and confirm whether the record <strong>$116.15K</strong> in Q1 reflects sustainable order growth.</li>
           </ul>
         </li>
