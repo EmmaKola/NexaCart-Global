@@ -99,7 +99,7 @@
 <h2 align="center">Dataset Structure and ERD (Entity Relationship Diagram)</h2>
 
 <p>
-  The NexaCart database contains <strong>33,215 rows</strong> across four tables: <strong>orders (25,000 rows)</strong>, <strong>customers (8,000 rows)</strong>, <strong>product summary (140 rows)</strong>, and <strong>monthly revenue (75 rows)</strong>. The <strong>orders</strong> table is the central transactional table: it connects to customers through <strong>customer_id</strong>, to product summary through the composite key <strong>category + product_name</strong>, and to monthly revenue through the composite key <strong>year + month</strong>. These one-to-many relationships preserve order-level detail while supporting customer, product and time-based analysis.
+  The NexaCart database contains <strong>33,215 rows</strong> across four tables. The <strong>orders</strong> table is the central transactional (fact) table: it connects to customers through <strong>customer_id</strong>, to product summary through the composite key <strong>category + product_name</strong>, and to monthly revenue through the composite key <strong>year + month</strong>. The tables connects with a cardinality of one to many and preserve order-level detail and time-based analysis.
 </p>
 
 <div align="center">
