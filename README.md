@@ -114,15 +114,15 @@
   <tr align="center">
     <td width="300" valign="top">
       <h3 align="center">Delivered Revenue</h3>
-      <img width="285" alt="NexaCart quarterly delivered revenue trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-revenue-trend.png">
+      <img height="220" alt="NexaCart quarterly delivered revenue trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-revenue-trend.png">
     </td>
     <td width="300" valign="top">
       <h3 align="center">Average Order Value</h3>
-      <img width="285" alt="NexaCart quarterly average order value trend from 2020 to Q1 2026" src="reports/figures/quarterly-average-order-value-trend.png">
+      <img height="220" alt="NexaCart quarterly average order value trend from 2020 to Q1 2026" src="reports/figures/quarterly-average-order-value-trend.png">
     </td>
     <td width="300" valign="top">
       <h3 align="center">Delivered Order Volume</h3>
-      <img width="285" alt="NexaCart quarterly delivered order volume trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-orders-trend.png">
+      <img height="220" alt="NexaCart quarterly delivered order volume trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-orders-trend.png">
     </td>
   </tr>
 </table>
