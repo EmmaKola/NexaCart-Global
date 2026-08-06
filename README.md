@@ -113,7 +113,7 @@
 <table align="center">
   <tr>
     <td width="900" align="center">
-      <img width="560" alt="NexaCart quarterly delivered revenue trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-revenue-trend.png">
+      <img width="540" alt="NexaCart quarterly delivered revenue trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-revenue-trend.png">
     </td>
   </tr>
 </table>
@@ -172,7 +172,8 @@
 
 <table align="center">
   <tr>
-    <td width="450" valign="top">
+    <td width="900" valign="top">
+      <h3 align="left">Average Order Value</h3>
       <ol>
         <li>
           <strong>Sharp AOV surge in 2022 and Plummeted in 2024</strong>
@@ -199,8 +200,7 @@
           </ul>
         </li>
       </ol>
-    </td>
-    <td width="450" valign="top">
+      <h3 align="left">Order Volume</h3>
       <ol>
         <li>
           <strong>AOV Impacts Revenue more than Order Volume</strong>
