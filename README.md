@@ -108,21 +108,12 @@
 
 <h1 align="center">Insights Deep-Dive</h1>
 
-<h2 align="center">Sales Performance Drivers</h2>
+<h2 align="center">Sales Revenue</h2>
 
 <table align="center">
-  <tr align="center">
-    <td width="300" valign="top">
-      <h3 align="center">Delivered Revenue</h3>
-      <img height="200" alt="NexaCart quarterly delivered revenue trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-revenue-trend.png">
-    </td>
-    <td width="300" valign="top">
-      <h3 align="center">Average Order Value</h3>
-      <img height="200" alt="NexaCart quarterly average order value trend from 2020 to Q1 2026" src="reports/figures/quarterly-average-order-value-trend.png">
-    </td>
-    <td width="300" valign="top">
-      <h3 align="center">Delivered Order Volume</h3>
-      <img height="200" alt="NexaCart quarterly delivered order volume trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-orders-trend.png">
+  <tr>
+    <td width="900" align="center">
+      <img width="780" alt="NexaCart quarterly delivered revenue trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-revenue-trend.png">
     </td>
   </tr>
 </table>
@@ -132,30 +123,29 @@
 <table align="center">
   <tr>
     <td width="900" valign="top">
-      <h2 align="center">Sales Revenue</h2>
       <ol>
         <li>
-          <strong>Peak Revenue in Q1 2026 Following a Sustained Recovery</strong>
+          <strong>Peak Revenue in 2026 Q1 following a sustained recovery</strong>
           <ul>
-            <li>Quarterly delivered revenue reached <strong>$116.15K in Q1 2026</strong>, the highest result in the reporting period and <strong>12.3% above</strong> the quarterly average of <strong>$103.41K</strong>.</li>
-            <li><strong>Q1 2026</strong> revenue was <strong>17.0% higher</strong> than <strong>Q1 2025</strong>, confirming a strong year-on-year improvement.</li>
-            <li>Revenue remained above average for four consecutive quarters: <strong>Q2 2025 (+4.8%)</strong>, <strong>Q3 2025 (+6.7%)</strong>, <strong>Q4 2025 (+3.9%)</strong> and <strong>Q1 2026 (+12.3%)</strong>.</li>
+            <li>Quarterly delivered revenue reached <strong>$116.15K</strong> in <strong>Q1 2026</strong>, the highest result in the reporting period and <strong>12.3%</strong> above the quarterly average of <strong>$103.41K</strong>.</li>
+            <li><strong>2026 Q1</strong> revenue marks a <strong>17.0%</strong> increase Compared with <strong>Q1 2025</strong>, indicating a strong improvement after sustained above average performance.</li>
+            <li>A high level of sustained recovery began in <strong>Q2 2025</strong>, and remained above average for four consecutive quarters: <strong>Q2 2025 (+4.8%)</strong>, <strong>Q3 2025 (+6.7%)</strong>, <strong>Q4 2025 (+3.9%)</strong> and <strong>Q1 2026 (+12.3%)</strong>.</li>
           </ul>
         </li>
         <li>
-          <strong>Q1 2022 Marked a Significant Revenue Downturn</strong>
+          <strong>Q1 2022 - Significant revenue downturn</strong>
           <ul>
-            <li>Delivered revenue fell to <strong>$91.96K in Q1 2022</strong>, the lowest quarterly result and <strong>11.1% below</strong> the overall benchmark.</li>
-            <li>This represented a <strong>12.5% quarter-on-quarter decline</strong> from <strong>$105.09K in Q4 2021</strong>, the largest consecutive-quarter contraction in the reporting period.</li>
-            <li>Revenue immediately recovered by <strong>16.5% to $107.10K in Q2 2022</strong>, indicating a sharp temporary disruption rather than the start of a sustained annual decline.</li>
+            <li>A very sharp decline of revenue to <strong>$91.96K</strong> in <strong>Q1 2022</strong>, the lowest sale performance and <strong>11.1%</strong> below the overall quarterly benchmark.</li>
+            <li>This represented a <strong>12.5%</strong> quarter-on-quarter decline from <strong>$105.09K</strong> in <strong>Q4 2021</strong>, making it the largest consecutive-quarter revenue contraction in the reporting period.</li>
+            <li>The decline was followed by an immediate <strong>16.5%</strong> recovery to <strong>$107.10K</strong> in <strong>Q2 2022</strong>, indicating that <strong>Q1 2022</strong> was a sharp temporary disruption rather than the beginning of a sustained annual collapse.</li>
           </ul>
         </li>
         <li>
-          <strong>Quarterly Volatility Coexisted with Relatively Stable Annual Revenue</strong>
+          <strong>Volatile Revenue performance and relatively stable annual totals</strong>
           <ul>
-            <li>Full-year revenue remained within a relatively narrow range of <strong>$395.66K–$425.36K from 2020 to 2025</strong>, despite considerable quarterly fluctuations.</li>
-            <li><strong>2025</strong> was the strongest full year, generating <strong>$425.36K</strong>—a <strong>7.5% increase</strong> from <strong>$395.66K in 2024</strong>.</li>
-            <li>Every quarter in <strong>2024</strong> was below the overall benchmark. Potential contributors—including weaker demand, reduced consumer spending, competition or marketing performance—should be investigated before a cause is assigned.</li>
+            <li>Full-year revenue remains in a narrow range of <strong>$395.66K–$425.36K</strong> between <strong>2020</strong> and <strong>2025</strong>, although quarterly results fluctuated considerably.</li>
+            <li><strong>2025</strong> was the best performing year, with an annual total of <strong>$425.36K</strong> (an increase of <strong>7.5%</strong> from <strong>$395.66K</strong> in <strong>2024</strong>).</li>
+            <li><strong>2024</strong> sustained a consistent below average sales performance, indicating lower demands, lower consumer spending, increased competition or poor marketing performance.</li>
           </ul>
         </li>
       </ol>
@@ -165,35 +155,12 @@
 
 <br>
 
+<h2 align="center">Average Order Value.</h2>
+
 <table align="center">
   <tr>
-    <td width="900" valign="top">
-      <h2 align="center">Average Order Value</h2>
-      <ol>
-        <li>
-          <strong>AOV Peaked in Q1 2026 After a Sharp Q2 2024 Trough</strong>
-          <ul>
-            <li>Delivered AOV averaged <strong>$126.12</strong> across the reporting period, ranging from <strong>$115.41 in Q2 2024</strong> to a record <strong>$138.94 in Q1 2026</strong>.</li>
-            <li>AOV also surged to <strong>$135.75 in Q2 2022</strong>, a <strong>16.2% quarter-on-quarter increase</strong> from <strong>$116.84 in Q1 2022</strong>.</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Below-Average AOV Persisted Through 2021 and Q1 2022</strong>
-          <ul>
-            <li>AOV fell to <strong>$119.41 in Q1 2021</strong>, a <strong>5.8% decline</strong> from <strong>$126.70 in Q4 2020</strong>, and remained below the overall average throughout <strong>2021</strong>.</li>
-            <li>AOV declined further to <strong>$116.84 in Q1 2022</strong>, which was <strong>7.4% below</strong> the overall AOV benchmark of <strong>$126.12</strong>.</li>
-            <li>From <strong>Q4 2021 to Q1 2022</strong>, AOV declined by <strong>5.7%</strong> and delivered order volume fell by <strong>7.2%</strong>, combining to produce the record-low revenue of <strong>$91.96K</strong>.</li>
-            <li>In <strong>Q2 2022</strong>, AOV rebounded by <strong>16.2% to $135.75</strong>, while delivered orders increased by only <strong>0.3% from 787 to 789</strong> and revenue recovered by <strong>16.5% to $107.10K</strong>. The improvement was therefore driven primarily by higher spending per order.</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Lower AOV Was the Primary Driver of the 2024 Revenue Decline</strong>
-          <ul>
-            <li>Annual AOV declined by <strong>7.8%</strong>, from <strong>$129.60 in 2023</strong> to <strong>$119.46 in 2024</strong>, with the lowest quarterly AOV recorded at <strong>$115.41 in Q2 2024</strong>.</li>
-            <li>Delivered orders still increased by <strong>1.8% from 3,253 in 2023 to 3,312 in 2024</strong>, yet revenue declined by <strong>6.2% to $395.66K</strong>. This confirms that weaker transaction value—not lower order volume—was the principal revenue constraint in <strong>2024</strong>.</li>
-          </ul>
-        </li>
-      </ol>
+    <td width="900" align="center">
+      <img width="680" alt="NexaCart quarterly average order value trend from 2020 to Q1 2026" src="reports/figures/quarterly-average-order-value-trend.png">
     </td>
   </tr>
 </table>
@@ -203,14 +170,59 @@
 <table align="center">
   <tr>
     <td width="900" valign="top">
-      <h2 align="center">Order Volume</h2>
       <ol>
         <li>
-          <strong>AOV Drove the Largest Revenue Swings More Than Order Volume</strong>
+          <strong>Sharp AOV surge in 2022 and Plummeted in 2024</strong>
           <ul>
-            <li>Quarterly delivered revenue ranged from <strong>$91.96K to $116.15K</strong>, a <strong>26.3% spread</strong>, while AOV ranged from <strong>$115.41 to $138.94</strong>, a <strong>20.4% spread</strong>.</li>
-            <li>Delivered orders averaged <strong>819.88 per quarter</strong>, with a low of <strong>777 orders in Q2 2021</strong> and a high of <strong>860 orders in Q4 2022</strong>—a narrower <strong>10.7% spread</strong>.</li>
-            <li>The smaller movement in order volume, together with the AOV-led recovery in <strong>Q2 2022</strong> and AOV-led decline in <strong>2024</strong>, shows that changes in customer spending per transaction had the stronger influence on NexaCart's largest revenue movements.</li>
+            <li>A sharp AOV surge was experienced in <strong>2022 Q2 ($136)</strong> and in <strong>2026 Q1 ($139)</strong> compared to <strong>2024 Q2</strong> with a significant drop below average performance.</li>
+            <li>Delivered AOV averaged <strong>$126.12</strong> across the reporting period, ranging from <strong>$115.41</strong> in <strong>Q2 2024</strong> to a record <strong>$138.94</strong> in <strong>Q1 2026</strong>.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Sustained AOV below average performance between 2021 and Q1 2022</strong>
+          <ul>
+            <li>AOV fell to <strong>$119</strong> in <strong>Q1 2021</strong> indicating a <strong>5.8%</strong> fall from <strong>Q4 2020</strong> and remained sustained at low level till <strong>Q4 2021</strong></li>
+            <li>A further decline to <strong>$116.84</strong> in <strong>Q1 2022</strong>, which was <strong>7.4%</strong> below the overall AOV average benchmark of <strong>$126.12</strong>.</li>
+            <li>AOV follows almost same sustained downturn trend (<strong>2021 - Q1 2022</strong>) as the revenue trend indicating AOV impacted revenue in the period.</li>
+            <li>AOV declined by <strong>5.7%</strong> from <strong>$123.93</strong> in <strong>Q4 2021</strong> to <strong>$117</strong> in <strong>Q1 2022</strong>, while delivered order volume also declined by <strong>7.2%</strong>. The resulted into the record-low revenue of <strong>$91.96K</strong>.</li>
+            <li>In <strong>Q2 2022</strong>, AOV rebounded by <strong>16.2%</strong> to <strong>$135.75</strong>, while order volume increased by only <strong>0.3%</strong> from <strong>787</strong> to <strong>789 orders</strong> while revenue consequently recovered by <strong>16.5%</strong> to <strong>$107.10K</strong>, demonstrating that the <strong>Q2</strong> improvement was driven primarily by greater spending per order rather than additional transactions.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Revenue Impacted in 2024 by AOV</strong>
+          <ul>
+            <li>Annual AOV declined by <strong>7.8%</strong>, from <strong>$129.60</strong> in <strong>2023</strong> to <strong>$119.46</strong> in <strong>2024</strong>, with the lowest customer spending in <strong>2024 Q2 ($115)</strong>.</li>
+            <li>in <strong>2024</strong>, delivered orders experienced increase by <strong>1.8%</strong>, from <strong>3,253</strong> to <strong>3,312</strong> yet revenue still declined by <strong>6.2%</strong> to <strong>$395.66K</strong>, indicating AOV has a major factor impacting revenue.</li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">Order Volume</h2>
+
+<table align="center">
+  <tr>
+    <td width="900" align="center">
+      <img width="780" alt="NexaCart quarterly delivered order volume trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-orders-trend.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" valign="top">
+      <ol>
+        <li>
+          <strong>AOV Impacts Revenue more than Order Volume</strong>
+          <ul>
+            <li>Revenue ranged from <strong>$91.96K</strong> to <strong>$116.15K</strong> over the years (<strong>26.3%</strong> range) while AOV ranged from <strong>$115.41</strong> to <strong>$138.94</strong> (<strong>20.4%</strong> difference).</li>
+            <li>Quarterly delivered orders averaged <strong>819.88</strong>, with a low of <strong>777 orders</strong> in <strong>Q2 2021</strong> and a high of <strong>860 orders</strong> in <strong>Q4 2022</strong> (<strong>10.7%</strong> range) - indicating changes in transaction value were more influential in producing the largest revenue fluctuations.</li>
           </ul>
         </li>
       </ol>
