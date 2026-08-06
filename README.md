@@ -158,11 +158,11 @@
 <table align="center">
   <tr>
     <td width="450" align="center" valign="top">
-      <h2 align="center">Average Order Value.</h2>
+      <h5 align="center">Average Order Value</h5>
       <img width="400" alt="NexaCart quarterly average order value trend from 2020 to Q1 2026" src="reports/figures/quarterly-average-order-value-trend.png">
     </td>
     <td width="450" align="center" valign="top">
-      <h2 align="center">Order Volume</h2>
+      <h5 align="center">Order Volume</h5>
       <img width="400" alt="NexaCart quarterly delivered order volume trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-orders-trend.png">
     </td>
   </tr>
