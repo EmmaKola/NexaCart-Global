@@ -163,7 +163,7 @@
     </td>
     <td width="450" align="center" valign="top">
       <h5 align="center">Order Volume</h5>
-      <img width="400" alt="NexaCart quarterly delivered order volume trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-orders-trend-v4.png">
+      <img width="400" alt="NexaCart quarterly delivered order volume trend from 2020 to Q1 2026" src="reports/figures/quarterly-delivered-orders-trend-v5.png">
     </td>
   </tr>
 </table>
