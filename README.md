@@ -213,3 +213,54 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Product Performance</h2>
+
+<table align="center">
+  <tr>
+    <td width="900" align="center">
+      <h3 align="center">Revenue Is Concentrated Among the Leading Technology Products</h3>
+      <img width="720" alt="NexaCart delivered revenue for the fifteen leading products from 2020 to Q1 2026" src="reports/figures/top-15-products-delivered-revenue.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" valign="top">
+      <ul>
+        <li><strong>Portable Charger 20000mAh</strong> is the best-performing product, generating <strong>$111.87K</strong> in delivered revenue. It outperformed second-ranked <strong>Webcam 4K ($98.52K)</strong> by <strong>13.6%</strong> and generated approximately <strong>3 times</strong> the revenue of <strong>Slim Fit Jeans ($39.28K)</strong>.</li>
+        <li>The fifteen leading products generated a combined <strong>$1,148.22K</strong>, representing approximately <strong>44.4%</strong> of NexaCart’s total delivered revenue. This shows significant revenue concentration around technology products, electronic accessories and few apparel products.</li>
+        <li>The <strong>Slim Fit Jeans ($39.28K)</strong>, <strong>Wall Clock Modern ($39.63K)</strong>, <strong>Winter Jacket ($39.71K)</strong>, <strong>Formal Dress Shirt ($40.18K)</strong> and <strong>Sports Socks 6-Pack ($40.23K)</strong> performed relatively low compared to others in the top performing 15 products. Together, they generated <strong>$199.04K (17.3%)</strong> compared to the technology products (<strong>82.7%</strong>) indicating category level performance gap.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" align="center">
+      <h3 align="center">Product-Level Volatility Masks Weak Overall Seasonality</h3>
+      <img width="820" alt="NexaCart quarterly delivered revenue heatmap for the fifteen leading products from 2020 to Q1 2026" src="reports/figures/top-15-products-quarterly-revenue-heatmap.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" valign="top">
+      <ul>
+        <li>The best combined quarter for the fifteen products was <strong>Q1 2026</strong>, when they generated <strong>$58.61K</strong>—approximately <strong>27.6%</strong> above their quarterly average of <strong>$45.93K</strong>. Performance was led by <strong>Wireless Earbuds Pro ($8.65K)</strong>, <strong>Webcam 4K ($6.34K)</strong> and <strong>Mechanical Keyboard ($5.20K)</strong>.</li>
+        <li>The weakest aggregated periods were <strong>Q1 2025 ($39.76K)</strong>, <strong>Q3 2022 ($39.95K)</strong> and <strong>Q1 2022 ($40.77K)</strong>.</li>
+        <li><strong>Portable Charger</strong> has the highest sales performance (<strong>$10.12K</strong>) in <strong>Q3 2025</strong>. In contrast, <strong>Mechanical Keyboard</strong> declined to <strong>$1.06K</strong> in <strong>Q1 2022</strong>, while <strong>Wall Clock Modern</strong> recorded only <strong>$0.62K</strong> in <strong>Q1 2023</strong>.</li>
+        <li>The few-top performing apparel products (<strong>sport socks, formal dress shirt, winter jacket, and slim fit jeans</strong>) performed relatively low across all the quarters with sport socks performing better in <strong>Q2,Q3, and Q4 2025</strong> respectively.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
