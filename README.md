@@ -220,7 +220,8 @@
   <tr>
     <td width="900" align="center">
       <h3 align="center">Revenue Is Concentrated Among the Leading Technology Products</h3>
-      <img width="720" alt="NexaCart delivered revenue for the fifteen leading products from 2020 to Q1 2026" src="reports/figures/top-15-products-delivered-revenue.png">
+      <h5 align="center">(Top 15 Product Sales Revenue)</h5>
+      <img width="720" alt="NexaCart top 15 product sales revenue from 2020 to Q1 2026" src="reports/figures/top-15-products-delivered-revenue-v2.png">
     </td>
   </tr>
 </table>
@@ -244,8 +245,10 @@
 <table align="center">
   <tr>
     <td width="900" align="center">
-      <h3 align="center">Product-Level Volatility Masks Weak Overall Seasonality</h3>
+      <h3 align="center">Top 15 product sales Heat Map by Quarter</h3>
       <img width="820" alt="NexaCart quarterly delivered revenue heatmap for the fifteen leading products from 2020 to Q1 2026" src="reports/figures/top-15-products-quarterly-revenue-heatmap.png">
+      <br>
+      <img width="300" alt="Total revenue colour legend ranging from 623 to 10,124" src="reports/figures/top-15-products-quarterly-revenue-legend.png">
     </td>
   </tr>
 </table>
