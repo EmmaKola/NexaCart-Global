@@ -244,9 +244,9 @@
 
 <table align="center">
   <tr>
-    <td width="820" align="center">
+    <td width="900" align="center">
       <h3 align="center">Top 15 product sales Heat Map by Quarter</h3>
-      <img width="820" alt="NexaCart quarterly delivered revenue heatmap for the fifteen leading products from 2020 to Q1 2026" src="reports/figures/top-15-products-quarterly-revenue-heatmap.png">
+      <img width="900" alt="NexaCart quarterly delivered revenue heatmap for the fifteen leading products from 2020 to Q1 2026" src="reports/figures/top-15-products-quarterly-revenue-heatmap.png">
       <p align="right">
         <img width="300" alt="Total revenue colour legend ranging from 623 to 10,124" src="reports/figures/top-15-products-quarterly-revenue-legend-v2.png">
       </p>
