@@ -414,3 +414,29 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Geographical Performance Analysis</h2>
+
+<table align="center">
+  <tr>
+    <td width="900" align="center">
+      <h3 align="center">The United States Leads Revenue While Return Rates Vary Across Markets</h3>
+      <img width="820" alt="NexaCart customer ratings, customer counts, order volume, return rates and delivered revenue across 20 countries" src="reports/figures/geographical-performance-country-summary-v1.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" valign="top">
+      <ul>
+        <li><strong>United States</strong> generated <strong>$805K</strong> from <strong>6,417 delivered orders</strong> and <strong>2,509 customers</strong>, which is approximately <strong>31.1% of total delivered revenue</strong>, the generated revenue is proportional to its customer and order-volume share, indicating that market size is the primary performance driver.</li>
+        <li><strong>Revenue is concentrated within four major markets.</strong> The United States ($805K), United Kingdom ($268K), India ($236K) and Germany ($201K) are the top four performing countries and collectively generated approximately <strong>$1.51M</strong>, equivalent to <strong>58.4% of total delivered revenue</strong>. The United Kingdom has a relatively low <strong>7.96% return rate</strong>, compared with <strong>9.59%</strong> in India and <strong>9.60%</strong> in Germany.</li>
+        <li><strong>Mexico recorded the highest return rate at 10.64%</strong>, followed by the UAE at <strong>10.41%</strong>, Brazil at <strong>10.22%</strong> and Japan at <strong>9.97%</strong> which are all above the company average benchmark of approximately <strong>8.97%</strong>. By Comparatively, Italy, Sweden and the United Kingdom achieved substantially lower rates of <strong>7.33%</strong>, <strong>7.54%</strong> and <strong>7.96%</strong>, respectively, indicating better customer product satisfaction or better alignment between customer expectations and delivered products.</li>
+        <li><strong>Customer ratings are consistent, but commercial performance varies significantly.</strong> Average ratings range narrowly from <strong>3.94</strong> in Japan to approximately <strong>4.06</strong> in France and Singapore (a spread of only <strong>0.12 points)</strong>. However, revenue ranges from <strong>$26K</strong> in Turkey to <strong>$805K</strong> in the United States. This suggests that geographic revenue performance is majorly influenced more by customer-base size, order frequency and market penetration than by customer satisfaction alone.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
