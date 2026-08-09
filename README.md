@@ -30,7 +30,7 @@
   <tr>
     <td width="900" align="center">
       <h3 align="center">Revenue Remained Volatile Across the Years and Peaked in Q1 2026</h3>
-      <img width="680" alt="NexaCart quarterly revenue trend from 2020 to Q1 2026" src="reports/figures/quarterly-revenue-trend.png">
+      <img width="680" alt="NexaCart quarterly revenue trend from 2020 to Q1 2026" src="reports/figures/quarterly-revenue-trend-v2.png">
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
   <tr>
     <td width="900" align="center">
       <h3 align="center">Quarterly Revenue Variance from the $103.41K Benchmark</h3>
-      <img width="480" alt="NexaCart quarterly revenue variance from the overall quarterly average" src="reports/figures/quarterly-revenue-variance.png">
+      <img width="480" alt="NexaCart quarterly revenue variance from the overall quarterly average" src="reports/figures/quarterly-revenue-variance-v2.png">
     </td>
   </tr>
 </table>
