@@ -275,7 +275,7 @@
   <tr>
     <td width="900" align="center">
       <h3 align="center">Return Rates relatively constant, with Significant Spikes in Q1 2022 and Q4 2025</h3>
-      <img width="720" alt="NexaCart quarterly product return rate trend from 2020 to Q1 2026" src="reports/figures/product-return-rate-quarterly-trend-v1.png">
+      <img width="720" alt="NexaCart quarterly product return rate trend from 2020 to Q1 2026" src="reports/figures/product-return-rate-quarterly-trend-v2.png">
     </td>
   </tr>
 </table>
