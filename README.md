@@ -306,3 +306,34 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Order Status</h2>
+
+<h3 align="center">Delivered Orders dominated Orders Distributions.</h3>
+
+<table align="center">
+  <tr>
+    <td width="450" align="center" valign="top">
+      <h5 align="center">Quarterly Order Status Volume Trend</h5>
+      <img width="400" alt="NexaCart quarterly order status volume trend from 2020 to Q1 2026" src="reports/figures/order-status-quarterly-volume-trend-v1.png">
+    </td>
+    <td width="450" align="center" valign="top">
+      <h5 align="center">order status by distribution mix</h5>
+      <img width="400" alt="NexaCart quarterly order status distribution mix from 2020 to Q1 2026" src="reports/figures/order-status-distribution-mix-v1.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" valign="top">
+      <ul>
+        <li>Delivered orders dominated the order-status distribution, accounting for <strong>20,497 of 25,000 orders (82.0%)</strong>. Returned orders represented <strong>8.1%</strong>, cancelled orders <strong>5.8%</strong>, and processing orders <strong>4.1%</strong>. Consequently, cancellations and processing together accounted for <strong>9.9%</strong> of all orders.</li>
+        <li>Quarterly delivered volume remained highly stable, averaging approximately <strong>820 orders</strong> and ranging from <strong>777 in Q2 2021</strong> to <strong>860 in Q4 2022</strong>.</li>
+        <li>The non-delivered statuses displayed greater relative volatility. Returns peaked at <strong>94 in Q4 2025</strong> and remained elevated at <strong>91 in Q1 2026</strong>, while cancellations reached <strong>71 in Q2 2025</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
