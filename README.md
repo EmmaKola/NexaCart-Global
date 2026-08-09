@@ -342,3 +342,38 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Customer Acquisition Channel Analysis</h2>
+
+<table align="center">
+  <tr>
+    <td width="450" align="center" valign="top">
+      <h5 align="center">Purchasing Customers by Acquisition Channel</h5>
+      <img width="400" alt="NexaCart quarterly purchasing customer trend by acquisition channel from 2020 to Q1 2026" src="reports/figures/customer-acquisition-channel-customer-trend-v1.png">
+    </td>
+    <td width="450" align="center" valign="top">
+      <h5 align="center">Customer Acquisition Channel Mix</h5>
+      <img width="400" alt="NexaCart quarterly customer acquisition channel distribution mix from 2020 to Q1 2026" src="reports/figures/customer-acquisition-channel-mix-v1.png">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="900" align="right">
+      <img width="180" alt="Customer acquisition channel colour legend showing Direct, Email Campaign, Organic Search, Paid Ad, Referral and Social Media" src="reports/figures/customer-acquisition-channel-legend-v1.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" valign="top">
+      <ul>
+        <li><strong>Organic Search</strong> is NexaCart’s leading acquisition channel, contributing <strong>2,086 distinct purchasing customers (27.2%)</strong>, <strong>6,897 orders (27.6%)</strong> and <strong>$870.15K in revenue (27.7%)</strong>. It contributed an average of approximately <strong>259 active customers per quarter</strong> and remained the highest-volume channel throughout the reporting years.</li>
+        <li><strong>Social Media</strong> ranked second with <strong>1,683 purchasing customers (22.0%)</strong> and <strong>$662.06K in revenue (21.1%)</strong>. <strong>Organic Search and Social Media</strong> both contributed <strong>49.2%</strong> of purchasing customers and approximately <strong>48.9%</strong> of revenue, this indicate NexaCart’s strong dependence on digital discovery channels.</li>
+        <li><strong>Email Campaigns and Paid Ads</strong> contributed fairly, jointly contributing <strong>34.6%</strong> of purchasing customers and <strong>34.8%</strong> of revenue. Email Campaign contribution ranged from <strong>119 customers in Q2 2021</strong> to <strong>196 in Q1 2024 and Q2 2025</strong>, while Paid Ads remained comparatively stable, averaging <strong>150 customers per quarter</strong>.</li>
+        <li><strong>Direct (10.3%)</strong> and <strong>Referral (6.0%)</strong> contributed the smallest customer shares, and the acquisition mix remained broadly stable with approximately little or no major structural shift through out the years.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
