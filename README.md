@@ -41,7 +41,7 @@
   <tr>
     <td width="900" align="center">
       <h3 align="center">Quarterly Revenue Variance from the $103.41K Benchmark</h3>
-      <img width="480" alt="NexaCart quarterly revenue variance from the overall quarterly average" src="reports/figures/quarterly-revenue-variance-v2.png">
+      <img width="480" alt="NexaCart quarterly revenue variance from the overall quarterly average" src="reports/figures/quarterly-revenue-variance-v3.png">
     </td>
   </tr>
 </table>
