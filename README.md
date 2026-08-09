@@ -384,7 +384,7 @@
   <tr>
     <td width="900" align="center">
       <h3 align="center">Free Members Generated the Largest Share of Delivered Revenue</h3>
-      <img width="720" alt="NexaCart annual delivered revenue by membership tier from 2020 to Q1 2026" src="reports/figures/membership-tier-annual-revenue-v1.png">
+      <img width="720" alt="NexaCart annual delivered revenue by membership tier from 2020 to Q1 2026" src="reports/figures/membership-tier-annual-revenue-v2.png">
     </td>
   </tr>
 </table>
