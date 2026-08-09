@@ -314,12 +314,17 @@
 <table align="center">
   <tr>
     <td width="450" align="center" valign="top">
-      <h5 align="center">Quarterly Order Status Volume Trend</h5>
-      <img width="400" alt="NexaCart quarterly order status volume trend from 2020 to Q1 2026" src="reports/figures/order-status-quarterly-volume-trend-v1.png">
+      <h5 align="center">Order Status Trend</h5>
+      <img width="400" alt="NexaCart quarterly order status volume trend from 2020 to Q1 2026" src="reports/figures/order-status-quarterly-volume-trend-v2.png">
     </td>
     <td width="450" align="center" valign="top">
-      <h5 align="center">order status by distribution mix</h5>
-      <img width="400" alt="NexaCart quarterly order status distribution mix from 2020 to Q1 2026" src="reports/figures/order-status-distribution-mix-v1.png">
+      <h5 align="center">Order Mix by Status</h5>
+      <img width="400" alt="NexaCart quarterly order status distribution mix from 2020 to Q1 2026" src="reports/figures/order-status-distribution-mix-v2.png">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="900" align="right">
+      <img width="170" alt="Order status colour legend showing cancelled, delivered, processing and returned orders" src="reports/figures/order-status-legend-v1.png">
     </td>
   </tr>
 </table>
