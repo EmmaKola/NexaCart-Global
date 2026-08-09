@@ -377,3 +377,40 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Membership Tier Analysis</h2>
+
+<table align="center">
+  <tr>
+    <td width="900" align="center">
+      <h3 align="center">Free Members Generated the Largest Share of Delivered Revenue</h3>
+      <img width="720" alt="NexaCart annual delivered revenue by membership tier from 2020 to Q1 2026" src="reports/figures/membership-tier-annual-revenue-v1.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" valign="top">
+      <ul>
+        <li><strong>Free members</strong> generated <strong>$1.43M</strong>, representing <strong>55.2%</strong> of delivered revenue, and placed <strong>11,399 delivered orders (55.6% of total order)</strong>. Annual revenue from this tier remained consistently between <strong>$220.14K and $238.07K per year</strong> during the reporting years, indicating that NexaCart’s revenue heavily depends on its free-member population.</li>
+        <li><strong>Silver members</strong> contributed <strong>$570.64K (22.1%)</strong> in revenue and recording the highest tier-level AOV at <strong>$128.90</strong> making them the highest paying tier. Silver revenue peaked at <strong>$97.01K in 2023</strong> and declined by <strong>18.8% to $78.79K in 2024</strong> that later recovered by <strong>20.7% to $95.11K in 2025</strong>, demonstrating a significant and reversible performance downturn.</li>
+        <li><strong>Gold and Platinum members</strong> contributed <strong>$381.81K (14.8%)</strong> and <strong>$205.92K (8.0%)</strong>, respectively. Platinum is the lowest-revenue tier, and Gold reached its highest annual revenue of <strong>$67.53K in 2025</strong>.</li>
+        <li>The <strong>2026</strong> values represent only <strong>Q1</strong> and should not be compared directly with full-year totals. Q1 generated <strong>$60.60K from Free</strong>, <strong>$28.16K from Silver</strong>, <strong>$19.17K from Gold</strong>, and <strong>$8.22K from Platinum</strong> tiers.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" align="center">
+      <h3 align="center">Silver Members Recorded the Highest Tier-Level AOV</h3>
+      <img width="720" alt="NexaCart annual average order value by membership tier from 2020 to Q1 2026" src="reports/figures/membership-tier-average-order-value-v1.png">
+    </td>
+  </tr>
+</table>
