@@ -268,3 +268,41 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Product Return Rate</h2>
+
+<table align="center">
+  <tr>
+    <td width="900" align="center">
+      <h3 align="center">Return Rates relatively constant, with Significant Spikes in Q1 2022 and Q4 2025</h3>
+      <img width="720" alt="NexaCart quarterly product return rate trend from 2020 to Q1 2026" src="reports/figures/product-return-rate-quarterly-trend-v1.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" align="center">
+      <h3 align="center">Quarterly Product Return Rate Heat Map</h3>
+      <img width="720" alt="NexaCart quarterly product return rate heat map from 2020 to Q1 2026" src="reports/figures/product-return-rate-quarterly-heatmap-v1.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="900" valign="top">
+      <ul>
+        <li>NexaCart recorded <strong>2,020 returned orders</strong> from <strong>22,517 fulfilled orders</strong>, with average total return rate of <strong>8.97%</strong>. This implies approximately <strong>9 out of every 100 fulfilled orders</strong> were returned during the reporting period.</li>
+        <li><strong>Q1 2022</strong> recorded the highest quarterly return rate at <strong>10.57% (93 returns from 880 fulfilled orders)</strong>, while the minimum was <strong>6.50% in Q2 2021</strong>.</li>
+        <li>At the annual level, <strong>2022</strong> experienced the highest return (a return rate of <strong>9.60%</strong> and <strong>345 returned orders</strong>) and performance subsequently improved to <strong>8.47% in 2023</strong> and <strong>8.61% in 2024</strong>.</li>
+        <li>Return rate increased again towards the end of <strong>2025</strong> (increased from <strong>8.66% in Q3 2025</strong> to <strong>10.16% in Q4 2025</strong>) and sustained at high level in <strong>2026 (9.82% in Q1 2026)</strong>. NexaCart operations and logistics department needs to monitor recent increase and not treated as an isolated fluctuation.</li>
+        <li>The <strong>3 highest rate of return</strong> occurs in different quarters (<strong>Q3 2020, Q1 2022 and Q4 2025</strong>) informing these might not be a consistent seasonal fluctuation. Management would need to perform a drill down to identify cause.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
