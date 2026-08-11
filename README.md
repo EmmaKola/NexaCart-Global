@@ -440,3 +440,108 @@
     </td>
   </tr>
 </table>
+
+<h1 align="center">Recommendations</h1>
+
+<table align="center">
+  <tr>
+    <td width="450" valign="top">
+      <h3 align="left">Sales Department</h3>
+      <ul>
+        <li>
+          <strong>Protect the recent revenue recovery and raise Average Order Value.</strong>
+          <ul>
+            <li>Maintain the products, campaigns and market activities that supported four consecutive above-average quarters from <strong>Q2 2025 to Q1 2026</strong>—NexaCart’s first four-quarter run of above-average sales.</li>
+            <li>Use product bundles, cross-selling and carefully targeted discounts to keep AOV above the <strong>$126.12 benchmark</strong>. In <strong>2024</strong>, delivered orders increased by <strong>1.8%</strong>, but AOV declined by <strong>7.8%</strong>, contributing to a <strong>6.2% revenue decline</strong>.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Use Q1 2026 momentum to address recurring first-quarter weakness.</strong>
+          <ul>
+            <li>First-quarter performance has generally remained below average, with <strong>Q1 2022</strong> recording the lowest result at approximately <strong>$92K</strong>. Identify the tactics behind the strong <strong>Q1 2026</strong> result and apply them across the January–March period.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h3 align="left">Product Department</h3>
+      <ul>
+        <li>
+          <strong>Prioritise inventory and promotion for proven technology products.</strong>
+          <ul>
+            <li>Maintain sufficient stock and prominent website placement for products such as <strong>Portable Charger 20000mAh ($111.87K)</strong> and <strong>Webcam 4K ($98.52K)</strong>.</li>
+            <li>Technology products contribute most of the revenue within the selected leading-product group, so stockouts could have a disproportionate effect on sales.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Create a structured improvement plan for lower-performing products.</strong>
+          <ul>
+            <li>Test price changes, product bundles, website placement and targeted promotions for products including <strong>Slim Fit Jeans ($39.28K)</strong>, <strong>Wall Clock Modern ($39.63K)</strong> and <strong>Winter Jacket ($39.71K)</strong>.</li>
+            <li>Review results after each quarter. Products that continue to underperform should receive lower inventory allocations, while products responding positively should receive further support.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h3 align="left">Returns and Refund Management</h3>
+      <ul>
+        <li>
+          <strong>Investigate return-rate hotspots.</strong>
+          <ul>
+            <li>Conduct product, category, country and delivery-time drill-downs for <strong>Q1 2022 (10.57%)</strong>, <strong>Q4 2025 (10.16%)</strong> and <strong>Q1 2026 (9.82%)</strong>, alongside the narrow customer-rating range of approximately <strong>3.93–4.06</strong>.</li>
+            <li>Prioritise <strong>Mexico, the UAE, Brazil and Japan</strong>, where return rates reached <strong>10.64%</strong>, <strong>10.41%</strong>, <strong>10.22%</strong> and <strong>9.97%</strong>, respectively.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="450" valign="top">
+      <h3 align="left">Membership Tier</h3>
+      <ul>
+        <li>
+          <strong>Convert more Free members without weakening the company’s largest revenue base.</strong>
+          <ul>
+            <li>Free members generated <strong>$1.43M</strong>, representing <strong>55.2%</strong> of delivered revenue. NexaCart should continue providing a strong basic customer experience to this tier while creating clear upgrade pathways.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Strengthen Silver performance and clarify premium-tier benefits.</strong>
+          <ul>
+            <li>Silver members produced the highest tier-level AOV of <strong>$128.90</strong> and <strong>$570.64K</strong> in revenue. Target this group with personalised bundles and retention offers.</li>
+            <li>Review the benefits offered to Gold and Platinum members, which contributed only <strong>14.8%</strong> and <strong>8.0%</strong> of revenue. Benefits should encourage increased purchasing frequency and spending.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h3 align="left">Customer Acquisition Channel</h3>
+      <ul>
+        <li>
+          <strong>Protect Organic Search and Social Media while reducing channel-concentration risk.</strong>
+          <ul>
+            <li>These two channels generated <strong>49.2%</strong> of purchasing customers and approximately <strong>48.9%</strong> of revenue, making them essential to customer and revenue growth.</li>
+            <li>Continue search optimisation and social-content investment, but monitor dependence on these channels and strengthen the remaining channels, which contributed approximately <strong>51.1%</strong> of revenue.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h3 align="left">Country Performance</h3>
+      <ul>
+        <li>
+          <strong>Prioritise the strongest markets and develop the United Kingdom as a growth market.</strong>
+          <ul>
+            <li>The <strong>United States, United Kingdom, India and Germany</strong> generated <strong>58.4%</strong> of delivered revenue. Protect inventory availability, delivery capacity and local campaigns in these markets.</li>
+            <li>The United Kingdom generated <strong>$268K</strong> with a comparatively low <strong>7.96% return rate</strong>, making it a strong candidate for targeted customer acquisition and product-range expansion.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Use operating metrics rather than customer ratings alone.</strong>
+          <ul>
+            <li>Customer ratings range narrowly from <strong>3.94 to 4.06</strong>, while country revenue ranges from <strong>$26K to $805K</strong>. Market size, customer base, order volume and return rate should therefore guide location-related operations and decisions.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="900">
+      <p><strong>Note:</strong> <strong>2026</strong> contains only <strong>Q1</strong>, so it should not be compared directly with complete financial years.</p>
+    </td>
+  </tr>
+</table>
