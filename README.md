@@ -103,7 +103,7 @@
 </p>
 
 <div align="center">
-  <img width="780" alt="NexaCart entity relationship diagram showing the orders, customers, product summary and monthly revenue tables" src="reports/figures/nexacart-entity-relationship-diagram.png">
+  <img width="780" alt="NexaCart entity relationship diagram showing the orders, customers, product summary and monthly revenue tables" src="reports/figures/nexacart-entity-relationship-diagram-v2.png">
 </div>
 
 <h1 align="center">Insights Deep-Dive</h1>

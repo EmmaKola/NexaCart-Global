@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1600" viewBox="0 0 1000 800" role="img" aria-labelledby="erd-title erd-desc">
+  <title id="erd-title">NexaCart entity relationship diagram</title>
+  <desc id="erd-desc">A professional entity relationship diagram with Orders in the centre, Customers on the left, and Product Summary and Monthly Revenue on the right.</desc>
+  <defs>
+    <filter id="card-shadow" x="-15%" y="-15%" width="130%" height="140%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="2.2" flood-color="#0F172A" flood-opacity="0.08"/>
+    </filter>
+    <style>
+      text{font-family:"Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;text-rendering:geometricPrecision}
+      .card{fill:#F7F7F7;stroke:#E0E0E0;stroke-width:1.1;filter:url(#card-shadow)}
+      .order-card{stroke:#1D76A5;stroke-width:1.5}
+      .soft-header{fill:#D6E8F1}
+      .order-header{fill:#1D76A5}
+      .entity-title{font-size:16px;font-weight:500;fill:#20242A;letter-spacing:.15px}
+      .order-title{fill:#FFFFFF}
+      .entity-subtitle{font-size:11.5px;font-weight:400;fill:#8A9099}
+      .order-subtitle{fill:#DDECF3}
+      .field{font-size:13px;font-weight:400;fill:#20242A}
+      .key-field{font-size:13px;font-weight:500;fill:#20242A}
+      .footer-note{font-size:11px;font-weight:400;fill:#95999F}
+      .rule{stroke:#E1E1E1;stroke-width:1}
+      .pk{fill:#F0A500}
+      .pk-text{font-size:9px;font-weight:500;fill:#111820}
+      .fk{fill:#F7F7F7;stroke:#1D76A5;stroke-width:1.15}
+      .fk-text{font-size:9px;font-weight:500;fill:#1D76A5}
+      .link{fill:none;stroke:#1D76A5;stroke-width:1.7;stroke-linejoin:round}
+      .arrow{fill:#1D76A5}
+      .relationship-label{font-size:9.5px;font-weight:400;fill:#8A8E94}
+      .cardinality{font-size:10px;font-weight:500;fill:#F0A500}
+      .legend-text{font-size:12px;font-weight:400;fill:#20242A}
+    </style>
+  </defs>
+
+  <rect width="1000" height="800" fill="#FFFFFF"/>
+
+  <!-- Legend -->
+  <g transform="translate(410 13)" aria-label="Diagram legend">
+    <rect x="0" y="0" width="31" height="22" rx="6" class="pk"/>
+    <text x="15.5" y="15.5" text-anchor="middle" class="pk-text">PK</text>
+    <text x="41" y="16" class="legend-text">Primary key</text>
+    <rect x="158" y="0" width="31" height="22" rx="6" class="fk"/>
+    <text x="173.5" y="15.5" text-anchor="middle" class="fk-text">FK</text>
+    <text x="199" y="16" class="legend-text">Foreign key</text>
+    <line x1="310" y1="11" x2="345" y2="11" class="link"/>
+    <polygon points="345,11 338,7 338,15" class="arrow"/>
+    <text x="355" y="16" class="legend-text">One-to-many relationship</text>
+  </g>
+
+  <!-- Customers -->
+  <g aria-label="Customers entity">
+    <rect x="10" y="215" width="235" height="385" rx="9" class="card"/>
+    <path d="M19 215 H236 Q245 215 245 224 V280 H10 V224 Q10 215 19 215 Z" class="soft-header"/>
+    <text x="30" y="242" class="entity-title">CUSTOMERS</text>
+    <text x="30" y="264" class="entity-subtitle">8,000 customer profiles</text>
+
+    <rect x="24" y="297" width="31" height="20" rx="5" class="pk"/>
+    <text x="39.5" y="311.5" text-anchor="middle" class="pk-text">PK</text>
+    <text x="65" y="312" class="key-field">customer_id</text>
+    <line x1="24" y1="326" x2="231" y2="326" class="rule"/>
+    <text x="30" y="350" class="field">country</text>
+    <text x="30" y="378" class="field">age</text>
+    <text x="30" y="406" class="field">gender</text>
+    <text x="30" y="434" class="field">membership_tier</text>
+    <text x="30" y="462" class="field">registration_date</text>
+    <text x="30" y="490" class="field">total_orders</text>
+    <text x="30" y="518" class="field">total_spend_usd</text>
+    <text x="30" y="546" class="field">avg_order_value_usd</text>
+    <text x="30" y="574" class="field">acquisition_channel</text>
+    <text x="30" y="592" class="field">churned</text>
+  </g>
+
+  <!-- Orders -->
+  <g aria-label="Orders entity">
+    <rect x="315" y="70" width="350" height="705" rx="10" class="card order-card"/>
+    <path d="M325 70 H655 Q665 70 665 80 V145 H315 V80 Q315 70 325 70 Z" class="order-header"/>
+    <text x="340" y="101" class="entity-title order-title">ORDERS</text>
+    <text x="340" y="126" class="entity-subtitle order-subtitle">25,000 transactions</text>
+
+    <rect x="333" y="160" width="31" height="20" rx="5" class="pk"/>
+    <text x="348.5" y="174.5" text-anchor="middle" class="pk-text">PK</text>
+    <text x="375" y="175" class="key-field">order_id</text>
+
+    <rect x="333" y="195" width="31" height="20" rx="5" class="fk"/>
+    <text x="348.5" y="209.5" text-anchor="middle" class="fk-text">FK</text>
+    <text x="375" y="210" class="key-field">customer_id</text>
+
+    <rect x="333" y="230" width="31" height="20" rx="5" class="fk"/>
+    <text x="348.5" y="244.5" text-anchor="middle" class="fk-text">FK</text>
+    <text x="375" y="245" class="key-field">category</text>
+
+    <rect x="333" y="265" width="31" height="20" rx="5" class="fk"/>
+    <text x="348.5" y="279.5" text-anchor="middle" class="fk-text">FK</text>
+    <text x="375" y="280" class="key-field">product_name</text>
+
+    <line x1="333" y1="294" x2="647" y2="294" class="rule"/>
+    <text x="340" y="322" class="field">order_date</text>
+    <text x="340" y="357" class="field">quarter</text>
+    <text x="340" y="392" class="field">unit_price_usd</text>
+    <text x="340" y="427" class="field">quantity</text>
+    <text x="340" y="462" class="field">discount_pct</text>
+    <text x="340" y="497" class="field">total_amount_usd</text>
+    <text x="340" y="532" class="field">order_status</text>
+    <text x="340" y="567" class="field">returned</text>
+    <text x="340" y="602" class="field">customer_rating</text>
+    <text x="340" y="637" class="field">delivery_days</text>
+    <text x="340" y="672" class="field">is_repeat_customer</text>
+
+    <rect x="333" y="690" width="31" height="20" rx="5" class="fk"/>
+    <text x="348.5" y="704.5" text-anchor="middle" class="fk-text">FK</text>
+    <text x="375" y="705" class="key-field">year</text>
+
+    <rect x="333" y="725" width="31" height="20" rx="5" class="fk"/>
+    <text x="348.5" y="739.5" text-anchor="middle" class="fk-text">FK</text>
+    <text x="375" y="740" class="key-field">month</text>
+  </g>
+
+  <!-- Product Summary -->
+  <g aria-label="Product Summary entity">
+    <rect x="755" y="70" width="235" height="360" rx="9" class="card"/>
+    <path d="M764 70 H981 Q990 70 990 79 V140 H755 V79 Q755 70 764 70 Z" class="soft-header"/>
+    <text x="773" y="101" class="entity-title">PRODUCT SUMMARY</text>
+    <text x="773" y="124" class="entity-subtitle">140 products • composite PK</text>
+
+    <rect x="769" y="160" width="31" height="20" rx="5" class="pk"/>
+    <text x="784.5" y="174.5" text-anchor="middle" class="pk-text">PK</text>
+    <text x="810" y="175" class="key-field">category</text>
+    <rect x="769" y="195" width="31" height="20" rx="5" class="pk"/>
+    <text x="784.5" y="209.5" text-anchor="middle" class="pk-text">PK</text>
+    <text x="810" y="210" class="key-field">product_name</text>
+    <line x1="769" y1="225" x2="976" y2="225" class="rule"/>
+    <text x="773" y="252" class="field">total_orders</text>
+    <text x="773" y="280" class="field">total_revenue_usd</text>
+    <text x="773" y="308" class="field">avg_price</text>
+    <text x="773" y="336" class="field">avg_rating</text>
+    <text x="773" y="364" class="field">return_rate</text>
+    <text x="773" y="392" class="field">avg_discount_pct</text>
+    <text x="773" y="420" class="field">avg_delivery_days</text>
+  </g>
+
+  <!-- Monthly Revenue -->
+  <g aria-label="Monthly Revenue entity">
+    <rect x="755" y="455" width="235" height="335" rx="9" class="card"/>
+    <path d="M764 455 H981 Q990 455 990 464 V525 H755 V464 Q755 455 764 455 Z" class="soft-header"/>
+    <text x="773" y="486" class="entity-title">MONTHLY REVENUE</text>
+    <text x="773" y="509" class="entity-subtitle">75 months • composite PK</text>
+
+    <rect x="769" y="540" width="31" height="20" rx="5" class="pk"/>
+    <text x="784.5" y="554.5" text-anchor="middle" class="pk-text">PK</text>
+    <text x="810" y="555" class="key-field">year</text>
+    <rect x="769" y="575" width="31" height="20" rx="5" class="pk"/>
+    <text x="784.5" y="589.5" text-anchor="middle" class="pk-text">PK</text>
+    <text x="810" y="590" class="key-field">month</text>
+    <line x1="769" y1="605" x2="976" y2="605" class="rule"/>
+    <text x="773" y="632" class="field">quarter</text>
+    <text x="773" y="658" class="field">orders</text>
+    <text x="773" y="684" class="field">revenue_usd</text>
+    <text x="773" y="710" class="field">avg_order_value</text>
+    <text x="773" y="736" class="field">return_rate</text>
+    <text x="773" y="762" class="field">unique_customers</text>
+    <text x="773" y="784" class="field">new_customers</text>
+  </g>
+
+  <!-- Exact, jointed key links with compact arrowheads -->
+  <g aria-label="Relationships">
+    <path d="M245 307 H280 V205 H323" class="link"/>
+    <polygon points="323,205 316,201 316,209" class="arrow"/>
+    <text x="255" y="301" class="cardinality">1</text>
+    <text x="304" y="199" class="cardinality">M</text>
+
+    <path d="M755 170 H720 V240 H657" class="link"/>
+    <polygon points="657,240 664,236 664,244" class="arrow"/>
+    <text x="740" y="164" class="cardinality">1</text>
+    <text x="669" y="234" class="cardinality">M</text>
+
+    <path d="M755 205 H705 V275 H657" class="link"/>
+    <polygon points="657,275 664,271 664,279" class="arrow"/>
+    <text x="740" y="199" class="cardinality">1</text>
+    <text x="669" y="269" class="cardinality">M</text>
+
+    <path d="M755 550 H730 V700 H657" class="link"/>
+    <polygon points="657,700 664,696 664,704" class="arrow"/>
+    <text x="740" y="544" class="cardinality">1</text>
+    <text x="669" y="694" class="cardinality">M</text>
+
+    <path d="M755 585 H715 V735 H657" class="link"/>
+    <polygon points="657,735 664,731 664,739" class="arrow"/>
+    <text x="740" y="579" class="cardinality">1</text>
+    <text x="669" y="729" class="cardinality">M</text>
+  </g>
+</svg>
