@@ -77,17 +77,17 @@
         <li>
           <strong>Quarterly Insights &amp; Seasonal Trends</strong>
           <ul>
-            <li>Q1 has a consistent below average performance: it finished below the benchmark in <strong>2020 (-1.0%), 2021 (-4.2%), 2022 (-11.1%) - lowest performing month, 2024 (-0.8%) and 2025 (-4.0%)</strong>. The major exceptions were <strong>Q1 2023 (+2.1%)</strong> and the record <strong>Q1 2026 (+12.3%)</strong>.</li>
-            <li>Q4 every year has a strong sales performance above average with <strong>2020 (+4.3%), 2022 (+7.0%) and 2023 (+2.3%)</strong> above average; however, <strong>Q4 2024 has a dip of (-5.6%) below average</strong> which might be due to seasonality.</li>
-            <li>Sales performance experienced sustained growth from <strong>Q2 2025</strong>: revenue remained above average in <strong>Q2 (+4.8%), Q3 (+6.7%) and Q4 (+3.9%)</strong>, and experiencing peak performance in <strong>Q1 2026 (+12.3%)</strong>.</li>
+            <li>Q1 generally performed below average: it finished below the benchmark in <strong>2020 (-1.0%), 2021 (-4.2%), 2022 (-11.1%)—the lowest-performing quarter, 2024 (-0.8%) and 2025 (-4.0%)</strong>. The major exceptions were <strong>Q1 2023 (+2.1%)</strong> and the record <strong>Q1 2026 (+12.3%)</strong>.</li>
+            <li>Q4 recorded above-average sales in <strong>2020 (+4.3%), 2022 (+7.0%) and 2023 (+2.3%)</strong>. However, <strong>Q4 2024 fell 5.6% below the benchmark</strong>, showing that Q4 strength was not consistent across every year.</li>
+            <li>Sales performance experienced sustained growth from <strong>Q2 2025</strong>: revenue remained above average in <strong>Q2 (+4.8%), Q3 (+6.7%) and Q4 (+3.9%)</strong>, before reaching peak performance in <strong>Q1 2026 (+12.3%)</strong>.</li>
           </ul>
         </li>
         <li>
           <strong>Key Takeaways &amp; Recommendations</strong>
           <ul>
             <li><strong>Protect the recovery:</strong> identify the countries, products, customer tiers and channels driving the above-average <strong>Q2 2025–Q1 2026</strong> run, then focus inventory and marketing investment there.</li>
-            <li><strong>Explain the 2024 decline:</strong> Investigate the cause of below average sales performance (i.e. Return rate, internal factors,  AOV, churn rate, competition etc) </li>
-            <li><strong>Reproduce Performing Quarters Strategy:</strong> NexaCart should leverage on high performing quarters to refine marketing and sales strategies.</li>
+            <li><strong>Explain the 2024 decline:</strong> investigate the drivers of below-average sales performance, including return rate, internal factors, AOV, churn rate and competition.</li>
+            <li><strong>Reproduce strong-quarter strategies:</strong> NexaCart should use the tactics associated with high-performing quarters to refine its marketing and sales strategies.</li>
             <li><strong>Forecast 2026 cautiously:</strong> update Q2–Q4 rolling forecasts and confirm whether the record <strong>$116.15K</strong> in Q1 reflects sustainable order growth.</li>
           </ul>
         </li>
@@ -99,7 +99,7 @@
 <h2 align="center">Dataset Structure and ERD (Entity Relationship Diagram)</h2>
 
 <p>
-  The NexaCart database contains <strong>33,215 rows</strong> across four tables. The <strong>orders</strong> table is the central transactional (fact) table: it connects to customers through <strong>customer_id</strong>, to product summary through the composite key <strong>category + product_name</strong>, and to monthly revenue through the composite key <strong>year + month</strong>. The tables connects with a cardinality of one to many which preserve order-level detail and time-based analysis.
+  The NexaCart database contains <strong>33,215 rows</strong> across four tables. The <strong>orders</strong> table is the central transactional (fact) table: it connects to customers through <strong>customer_id</strong>, to product summary through the composite key <strong>category + product_name</strong>, and to monthly revenue through the composite key <strong>year + month</strong>. The tables connect through one-to-many relationships that preserve order-level detail and support time-based analysis.
 </p>
 
 <div align="center">
@@ -145,7 +145,7 @@
           <ul>
             <li>Full-year revenue remains in a narrow range of <strong>$395.66K–$425.36K</strong> between <strong>2020</strong> and <strong>2025</strong>, although quarterly results fluctuated considerably.</li>
             <li><strong>2025</strong> was the best performing year, with an annual total of <strong>$425.36K</strong> (an increase of <strong>7.5%</strong> from <strong>$395.66K</strong> in <strong>2024</strong>).</li>
-            <li><strong>2024</strong> sustained a consistent below average sales performance, indicating lower demands, lower consumer spending, increased competition or poor marketing performance.</li>
+            <li><strong>2024</strong> sustained consistently below-average sales performance. Potential drivers—including weaker demand, lower consumer spending, increased competition or poor marketing performance—require further investigation.</li>
           </ul>
         </li>
       </ol>
@@ -176,27 +176,27 @@
       <h3 align="left">Average Order Value</h3>
       <ol>
         <li>
-          <strong>Sharp AOV surge in 2022 and Plummeted in 2024</strong>
+          <strong>AOV Surged in 2022 and Declined Sharply in 2024</strong>
           <ul>
-            <li>A sharp AOV surge was experienced in <strong>2022 Q2 ($136)</strong> and in <strong>2026 Q1 ($139)</strong> compared to <strong>2024 Q2</strong> with a significant drop below average performance.</li>
+            <li>AOV surged in <strong>Q2 2022 ($136)</strong> and <strong>Q1 2026 ($139)</strong>, while <strong>Q2 2024</strong> recorded a significant below-average decline.</li>
             <li>Delivered AOV averaged <strong>$126.12</strong> across the reporting period, ranging from <strong>$115.41</strong> in <strong>Q2 2024</strong> to a record <strong>$138.94</strong> in <strong>Q1 2026</strong>.</li>
           </ul>
         </li>
         <li>
-          <strong>Sustained AOV below average performance between 2021 and Q1 2022</strong>
+          <strong>Sustained Below-Average AOV Performance Between 2021 and Q1 2022</strong>
           <ul>
-            <li>AOV fell to <strong>$119</strong> in <strong>Q1 2021</strong> indicating a <strong>5.8%</strong> fall from <strong>Q4 2020</strong> and remained sustained at low level till <strong>Q4 2021</strong></li>
+            <li>AOV fell to <strong>$119</strong> in <strong>Q1 2021</strong>, a <strong>5.8%</strong> decline from <strong>Q4 2020</strong>, and remained at a comparatively low level through <strong>Q4 2021</strong>.</li>
             <li>A further decline to <strong>$116.84</strong> in <strong>Q1 2022</strong>, which was <strong>7.4%</strong> below the overall AOV average benchmark of <strong>$126.12</strong>.</li>
-            <li>AOV follows almost same sustained downturn trend (<strong>2021 - Q1 2022</strong>) as the revenue trend indicating AOV impacted revenue in the period.</li>
-            <li>AOV declined by <strong>5.7%</strong> from <strong>$123.93</strong> in <strong>Q4 2021</strong> to <strong>$117</strong> in <strong>Q1 2022</strong>, while delivered order volume also declined by <strong>7.2%</strong>. The resulted into the record-low revenue of <strong>$91.96K</strong>.</li>
-            <li>In <strong>Q2 2022</strong>, AOV rebounded by <strong>16.2%</strong> to <strong>$135.75</strong>, while order volume increased by only <strong>0.3%</strong> from <strong>787</strong> to <strong>789 orders</strong> while revenue consequently recovered by <strong>16.5%</strong> to <strong>$107.10K</strong>, demonstrating that the <strong>Q2</strong> improvement was driven primarily by greater spending per order rather than additional transactions.</li>
+            <li>AOV followed a similar sustained downturn from <strong>2021 to Q1 2022</strong> as the revenue trend, indicating that lower transaction value affected revenue during the period.</li>
+            <li>AOV declined by <strong>5.7%</strong> from <strong>$123.93</strong> in <strong>Q4 2021</strong> to <strong>$117</strong> in <strong>Q1 2022</strong>, while delivered order volume also declined by <strong>7.2%</strong>. Together, these movements contributed to the record-low revenue of <strong>$91.96K</strong>.</li>
+            <li>In <strong>Q2 2022</strong>, AOV rebounded by <strong>16.2%</strong> to <strong>$135.75</strong>, while order volume increased by only <strong>0.3%</strong> from <strong>787</strong> to <strong>789 orders</strong>. Revenue consequently recovered by <strong>16.5%</strong> to <strong>$107.10K</strong>, demonstrating that the <strong>Q2</strong> improvement was driven primarily by greater spending per order rather than additional transactions.</li>
           </ul>
         </li>
         <li>
-          <strong>Revenue Impacted in 2024 by AOV</strong>
+          <strong>Revenue Was Impacted by AOV in 2024</strong>
           <ul>
             <li>Annual AOV declined by <strong>7.8%</strong>, from <strong>$129.60</strong> in <strong>2023</strong> to <strong>$119.46</strong> in <strong>2024</strong>, with the lowest customer spending in <strong>2024 Q2 ($115)</strong>.</li>
-            <li>in <strong>2024</strong>, delivered orders experienced increase by <strong>1.8%</strong>, from <strong>3,253</strong> to <strong>3,312</strong> yet revenue still declined by <strong>6.2%</strong> to <strong>$395.66K</strong>, indicating AOV has a major factor impacting revenue.</li>
+            <li>In <strong>2024</strong>, delivered orders increased by <strong>1.8%</strong>, from <strong>3,253</strong> to <strong>3,312</strong>, yet revenue declined by <strong>6.2%</strong> to <strong>$395.66K</strong>, indicating that lower AOV was a major factor affecting revenue.</li>
           </ul>
         </li>
       </ol>
@@ -263,7 +263,7 @@
         <li>The best combined quarter for the fifteen products was <strong>Q1 2026</strong>, when they generated <strong>$58.61K</strong>—approximately <strong>27.6%</strong> above their quarterly average of <strong>$45.93K</strong>. Performance was led by <strong>Wireless Earbuds Pro ($8.65K)</strong>, <strong>Webcam 4K ($6.34K)</strong> and <strong>Mechanical Keyboard ($5.20K)</strong>.</li>
         <li>The weakest aggregated periods were <strong>Q1 2025 ($39.76K)</strong>, <strong>Q3 2022 ($39.95K)</strong> and <strong>Q1 2022 ($40.77K)</strong>.</li>
         <li><strong>Portable Charger</strong> has the highest sales performance (<strong>$10.12K</strong>) in <strong>Q3 2025</strong>. In contrast, <strong>Mechanical Keyboard</strong> declined to <strong>$1.06K</strong> in <strong>Q1 2022</strong>, while <strong>Wall Clock Modern</strong> recorded only <strong>$0.62K</strong> in <strong>Q1 2023</strong>.</li>
-        <li>The few-top performing apparel products (<strong>sport socks, formal dress shirt, winter jacket, and slim fit jeans</strong>) performed relatively low across all the quarters with sport socks performing better in <strong>Q2,Q3, and Q4 2025</strong> respectively.</li>
+        <li>The few leading apparel products (<strong>Sports Socks 6-Pack, Formal Dress Shirt, Winter Jacket and Slim Fit Jeans</strong>) performed relatively poorly across the reporting period, although Sports Socks 6-Pack improved in <strong>Q2, Q3 and Q4 2025</strong>.</li>
       </ul>
     </td>
   </tr>
@@ -274,7 +274,7 @@
 <table align="center">
   <tr>
     <td width="900" align="center">
-      <h3 align="center">Return Rates relatively constant, with Significant Spikes in Q1 2022 and Q4 2025</h3>
+      <h3 align="center">Return Rates Remained Relatively Constant, with Significant Spikes in Q1 2022 and Q4 2025</h3>
       <img width="720" alt="NexaCart quarterly product return rate trend from 2020 to Q1 2026" src="reports/figures/product-return-rate-quarterly-trend-v2.png">
     </td>
   </tr>
@@ -297,11 +297,11 @@
   <tr>
     <td width="900" valign="top">
       <ul>
-        <li>NexaCart recorded <strong>2,020 returned orders</strong> from <strong>22,517 fulfilled orders</strong>, with average total return rate of <strong>8.97%</strong>. This implies approximately <strong>9 out of every 100 fulfilled orders</strong> were returned during the reporting period.</li>
+        <li>NexaCart recorded <strong>2,020 returned orders</strong> from <strong>22,517 fulfilled orders</strong>, with an average total return rate of <strong>8.97%</strong>. This implies that approximately <strong>9 out of every 100 fulfilled orders</strong> were returned during the reporting period.</li>
         <li><strong>Q1 2022</strong> recorded the highest quarterly return rate at <strong>10.57% (93 returns from 880 fulfilled orders)</strong>, while the minimum was <strong>6.50% in Q2 2021</strong>.</li>
-        <li>At the annual level, <strong>2022</strong> experienced the highest return (a return rate of <strong>9.60%</strong> and <strong>345 returned orders</strong>) and performance subsequently improved to <strong>8.47% in 2023</strong> and <strong>8.61% in 2024</strong>.</li>
-        <li>Return rate increased again towards the end of <strong>2025</strong> (increased from <strong>8.66% in Q3 2025</strong> to <strong>10.16% in Q4 2025</strong>) and sustained at high level in <strong>2026 (9.82% in Q1 2026)</strong>. NexaCart operations and logistics department needs to monitor recent increase and not treated as an isolated fluctuation.</li>
-        <li>The <strong>3 highest rate of return</strong> occurs in different quarters (<strong>Q3 2020, Q1 2022 and Q4 2025</strong>) informing these might not be a consistent seasonal fluctuation. Management would need to perform a drill down to identify cause.</li>
+        <li>At the annual level, <strong>2022</strong> experienced the highest return rate at <strong>9.60%</strong>, representing <strong>345 returned orders</strong>. Performance subsequently improved to <strong>8.47% in 2023</strong> and <strong>8.61% in 2024</strong>.</li>
+        <li>The return rate increased again towards the end of <strong>2025</strong>, rising from <strong>8.66% in Q3 2025</strong> to <strong>10.16% in Q4 2025</strong>, and remained elevated in <strong>Q1 2026 (9.82%)</strong>. NexaCart’s operations and logistics department should monitor the recent increase rather than treat it as an isolated fluctuation.</li>
+        <li>The <strong>three highest return rates</strong> occurred in different quarters (<strong>Q3 2020, Q1 2022 and Q4 2025</strong>), suggesting that the spikes were not part of a consistent seasonal pattern. Management should perform a drill-down analysis to identify the causes.</li>
       </ul>
     </td>
   </tr>
@@ -309,7 +309,7 @@
 
 <h2 align="center">Order Status</h2>
 
-<h3 align="center">Delivered Orders dominated Orders Distributions.</h3>
+<h3 align="center">Delivered Orders Dominated the Order-Status Distribution</h3>
 
 <table align="center">
   <tr>
@@ -370,9 +370,9 @@
     <td width="900" valign="top">
       <ul>
         <li><strong>Organic Search</strong> is NexaCart’s leading acquisition channel, contributing <strong>2,086 distinct purchasing customers (27.2%)</strong>, <strong>6,897 orders (27.6%)</strong> and <strong>$870.15K in revenue (27.7%)</strong>. It contributed an average of approximately <strong>259 active customers per quarter</strong> and remained the highest-volume channel throughout the reporting years.</li>
-        <li><strong>Social Media</strong> ranked second with <strong>1,683 purchasing customers (22.0%)</strong> and <strong>$662.06K in revenue (21.1%)</strong>. <strong>Organic Search and Social Media</strong> both contributed <strong>49.2%</strong> of purchasing customers and approximately <strong>48.9%</strong> of revenue, this indicate NexaCart’s strong dependence on digital discovery channels.</li>
+        <li><strong>Social Media</strong> ranked second with <strong>1,683 purchasing customers (22.0%)</strong> and <strong>$662.06K in revenue (21.1%)</strong>. <strong>Organic Search and Social Media</strong> together contributed <strong>49.2%</strong> of purchasing customers and approximately <strong>48.9%</strong> of revenue, indicating NexaCart’s strong dependence on digital discovery channels.</li>
         <li><strong>Email Campaigns and Paid Ads</strong> contributed fairly, jointly contributing <strong>34.6%</strong> of purchasing customers and <strong>34.8%</strong> of revenue. Email Campaign contribution ranged from <strong>119 customers in Q2 2021</strong> to <strong>196 in Q1 2024 and Q2 2025</strong>, while Paid Ads remained comparatively stable, averaging <strong>150 customers per quarter</strong>.</li>
-        <li><strong>Direct (10.3%)</strong> and <strong>Referral (6.0%)</strong> contributed the smallest customer shares, and the acquisition mix remained broadly stable with approximately little or no major structural shift through out the years.</li>
+        <li><strong>Direct (10.3%)</strong> and <strong>Referral (6.0%)</strong> contributed the smallest customer shares, while the acquisition mix remained broadly stable with little or no major structural shift throughout the reporting years.</li>
       </ul>
     </td>
   </tr>
@@ -395,8 +395,8 @@
   <tr>
     <td width="900" valign="top">
       <ul>
-        <li><strong>Free members</strong> generated <strong>$1.43M</strong>, representing <strong>55.2%</strong> of delivered revenue, and placed <strong>11,399 delivered orders (55.6% of total order)</strong>. Annual revenue from this tier remained consistently between <strong>$220.14K and $238.07K per year</strong> during the reporting years, indicating that NexaCart’s revenue heavily depends on its free-member population.</li>
-        <li><strong>Silver members</strong> contributed <strong>$570.64K (22.1%)</strong> in revenue and recording the highest tier-level AOV at <strong>$128.90</strong> making them the highest paying tier. Silver revenue peaked at <strong>$97.01K in 2023</strong> and declined by <strong>18.8% to $78.79K in 2024</strong> that later recovered by <strong>20.7% to $95.11K in 2025</strong>, demonstrating a significant and reversible performance downturn.</li>
+        <li><strong>Free members</strong> generated <strong>$1.43M</strong>, representing <strong>55.2%</strong> of delivered revenue, and placed <strong>11,399 delivered orders (55.6% of total orders)</strong>. Annual revenue from this tier remained consistently between <strong>$220.14K and $238.07K per year</strong> during the reporting years, indicating that NexaCart’s revenue heavily depends on its free-member population.</li>
+        <li><strong>Silver members</strong> contributed <strong>$570.64K (22.1%)</strong> in revenue and recorded the highest tier-level AOV at <strong>$128.90</strong>, making them the highest-paying tier. Silver revenue peaked at <strong>$97.01K in 2023</strong>, declined by <strong>18.8% to $78.79K in 2024</strong>, and later recovered by <strong>20.7% to $95.11K in 2025</strong>, demonstrating a significant and reversible performance downturn.</li>
         <li><strong>Gold and Platinum members</strong> contributed <strong>$381.81K (14.8%)</strong> and <strong>$205.92K (8.0%)</strong>, respectively. Platinum is the lowest-revenue tier, and Gold reached its highest annual revenue of <strong>$67.53K in 2025</strong>.</li>
         <li>The <strong>2026</strong> values represent only <strong>Q1</strong> and should not be compared directly with full-year totals. Q1 generated <strong>$60.60K from Free</strong>, <strong>$28.16K from Silver</strong>, <strong>$19.17K from Gold</strong>, and <strong>$8.22K from Platinum</strong> tiers.</li>
       </ul>
@@ -432,10 +432,10 @@
   <tr>
     <td width="900" valign="top">
       <ul>
-        <li><strong>United States</strong> generated <strong>$805K</strong> from <strong>6,417 delivered orders</strong> and <strong>2,509 customers</strong>, which is approximately <strong>31.1% of total delivered revenue</strong>, the generated revenue is proportional to its customer and order-volume share, indicating that market size is the primary performance driver.</li>
+        <li><strong>United States</strong> generated <strong>$805K</strong> from <strong>6,417 delivered orders</strong> and <strong>2,509 customers</strong>, representing approximately <strong>31.1% of total delivered revenue</strong>. The revenue generated is proportional to its customer and order-volume share, indicating that market size is the primary performance driver.</li>
         <li><strong>Revenue is concentrated within four major markets.</strong> The United States ($805K), United Kingdom ($268K), India ($236K) and Germany ($201K) are the top four performing countries and collectively generated approximately <strong>$1.51M</strong>, equivalent to <strong>58.4% of total delivered revenue</strong>. The United Kingdom has a relatively low <strong>7.96% return rate</strong>, compared with <strong>9.59%</strong> in India and <strong>9.60%</strong> in Germany.</li>
-        <li><strong>Mexico recorded the highest return rate at 10.64%</strong>, followed by the UAE at <strong>10.41%</strong>, Brazil at <strong>10.22%</strong> and Japan at <strong>9.97%</strong> which are all above the company average benchmark of approximately <strong>8.97%</strong>. By Comparatively, Italy, Sweden and the United Kingdom achieved substantially lower rates of <strong>7.33%</strong>, <strong>7.54%</strong> and <strong>7.96%</strong>, respectively, indicating better customer product satisfaction or better alignment between customer expectations and delivered products.</li>
-        <li><strong>Customer ratings are consistent, but commercial performance varies significantly.</strong> Average ratings range narrowly from <strong>3.94</strong> in Japan to approximately <strong>4.06</strong> in France and Singapore (a spread of only <strong>0.12 points)</strong>. However, revenue ranges from <strong>$26K</strong> in Turkey to <strong>$805K</strong> in the United States. This suggests that geographic revenue performance is majorly influenced more by customer-base size, order frequency and market penetration than by customer satisfaction alone.</li>
+        <li><strong>Mexico recorded the highest return rate at 10.64%</strong>, followed by the UAE at <strong>10.41%</strong>, Brazil at <strong>10.22%</strong> and Japan at <strong>9.97%</strong>, all above the company average benchmark of approximately <strong>8.97%</strong>. Comparatively, Italy, Sweden and the United Kingdom achieved substantially lower rates of <strong>7.33%</strong>, <strong>7.54%</strong> and <strong>7.96%</strong>, respectively, indicating better customer product satisfaction or closer alignment between customer expectations and delivered products.</li>
+        <li><strong>Customer ratings are consistent, but commercial performance varies significantly.</strong> Average ratings range narrowly from <strong>3.94</strong> in Japan to approximately <strong>4.06</strong> in France and Singapore (a spread of only <strong>0.12 points)</strong>. However, revenue ranges from <strong>$26K</strong> in Turkey to <strong>$805K</strong> in the United States. This suggests that geographic revenue performance is influenced more by customer-base size, order frequency and market penetration than by customer satisfaction alone.</li>
       </ul>
     </td>
   </tr>
@@ -462,7 +462,6 @@
           </ul>
         </li>
       </ul>
-
       <h3 align="left">Product Department</h3>
       <ul>
         <li>
@@ -480,13 +479,12 @@
           </ul>
         </li>
       </ul>
-
       <h3 align="left">Returns and Refund Management</h3>
       <ul>
         <li>
           <strong>Investigate return-rate hotspots.</strong>
           <ul>
-            <li>Conduct product, category, country and delivery-time drill-downs for <strong>Q1 2022 (10.57%)</strong>, <strong>Q4 2025 (10.16%)</strong> and <strong>Q1 2026 (9.82%)</strong>, alongside the narrow customer-rating range of approximately <strong>3.93–4.06</strong>.</li>
+            <li>Conduct product, category, country and delivery-time drill-downs for <strong>Q1 2022 (10.57%)</strong>, <strong>Q4 2025 (10.16%)</strong> and <strong>Q1 2026 (9.82%)</strong>, alongside the narrow customer-rating range of approximately <strong>3.94–4.06</strong>.</li>
             <li>Prioritise <strong>Mexico, the UAE, Brazil and Japan</strong>, where return rates reached <strong>10.64%</strong>, <strong>10.41%</strong>, <strong>10.22%</strong> and <strong>9.97%</strong>, respectively.</li>
           </ul>
         </li>
@@ -509,7 +507,6 @@
           </ul>
         </li>
       </ul>
-
       <h3 align="left">Customer Acquisition Channel</h3>
       <ul>
         <li>
@@ -520,7 +517,6 @@
           </ul>
         </li>
       </ul>
-
       <h3 align="left">Country Performance</h3>
       <ul>
         <li>
